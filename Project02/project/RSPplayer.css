@@ -1,0 +1,16 @@
+#comResult{
+    width: 30%;
+    margin: 0 auto;
+}
+#result {
+    text-align: center;
+}
+
+#footer {
+    border-top:1px solid #28a745;
+    padding: 50px 0;
+}
+
+main{
+    height: 80vh;
+}
